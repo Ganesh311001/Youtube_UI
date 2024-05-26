@@ -1,0 +1,26 @@
+p{
+  font-family:Arial;
+}
+.edit-title{
+  
+  font-size:18px;
+  font-weight:bold;
+  width:300px;
+  line-height: 24px;
+  margin-bottom:5px;
+  
+}
+.edit-stats{
+  
+  font-size:14px;
+  color:rgb(99, 97, 97);
+  margin-top:0;
+  margin-bottom:20px;
+}
+.edit-change{
+  
+  font-size:14px;
+  color:rgb(99, 97, 97);
+  margin-top:0;
+
+}
